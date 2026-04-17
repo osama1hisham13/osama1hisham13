@@ -33,3 +33,7 @@ Developed a log analysis project to detect suspicious activities from system log
 Project Link:
 https://github.com/osama1hisham13/LOG-ANALYZER
 
+
+## Contact
+- LinkedIn: (https://www.linkedin.com/in/osama-hisham-b088a7287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
