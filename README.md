@@ -1,16 +1,35 @@
-## Hi there 👋
+# Osama Hisham
 
-<!--
-**osama1hisham13/osama1hisham13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior SOC Analyst focused on threat detection, log analysis, and network security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SIEM: Splunk
+- Network Analysis: Wireshark
+- Operating Systems: Linux
+- Log Analysis & Event Correlation
+## Projects
+
+### Malware Traffic Analysis
+Analyzed network traffic from PCAP files to identify malicious activity and command-and-control (C2) communication.
+
+- Tools: Wireshark
+- Extracted malicious IPs and domains
+- Investigated HTTP and DNS traffic
+- Identified suspicious patterns
+
+Project Link:
+https://github.com/osama1hisham13/Malware-Traffic-Analysis
+
+
+### Log Analyzer
+Developed a log analysis project to detect suspicious activities from system logs.
+
+- Processed and analyzed log data
+- Identified abnormal patterns
+- Focused on security monitoring use cases
+
+Project Link:
+https://github.com/osama1hisham13/LOG-ANALYZER
+
