@@ -25,7 +25,7 @@ CGPA: **2.8**
 
 ---
 
-# Certifications
+# Courses
 
 * CompTIA Security+
 * Cisco Certified Network Associate (CCNA)
